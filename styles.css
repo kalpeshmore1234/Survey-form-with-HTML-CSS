@@ -1,0 +1,58 @@
+h1, #description{
+    text-align:center;
+  
+  
+  }
+  
+  h1{
+    color:navy;
+    font-family: Verdana;
+  
+  }
+  
+  #description{
+    font-style:italic;
+    font-weight:bold;
+  }
+  
+  body{
+    background: linear-gradient(45deg, rgba(0,0,255,50%) 10%, rgba(0,255,255, 50%) 50%);
+  }
+  
+  label{
+    display:block;
+  }
+  
+  form{
+    max-width:40rem;
+    margin:0 auto;
+    background-color:#00008b;
+    color:whitesmoke;
+    max-height:100rem;
+    border: 1px solid black;
+    box-shadow: 5px 5px 4px #00008b;
+  
+  
+  }
+  
+  #one input{
+    width:95%;
+  }
+  
+  textarea{
+    width:95%;
+  }
+  
+  button{
+      display:block;
+      color:#00008b;
+    
+      height: 2em;
+      width: 60%;
+      margin: auto;
+  }
+  
+  fieldset{
+    border:0;
+  }
+
